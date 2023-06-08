@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+.box {
+    background: hsla(0, 54%, 35%, 1);
+    height: 348px;
+}
